@@ -1,4 +1,5 @@
-  <h1 align="center">Hi 👋, I'm Prem Kumar S R</h1>
+|[logo](https://github.com/prem-kumar-1/prem-kumar-1/blob/main/Computer%20Science%20and%20Engineer.png)
+<h1 align="center">Hi 👋, I'm Prem Kumar S R</h1>
 <h3 align="center">A passionate Python frontend and Backend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/hacker-ninjala-jana-p6ck92rgkcrqv9zs.gif">
